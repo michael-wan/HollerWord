@@ -3,7 +3,7 @@ package test.study;
 public class OODemo02 {
 	public static void main(String args[]) {
 		A a = new A();
-		a.fun2();
+		a.fun1();
 		B b = (B)a;
 		// A a = new A() ;
 		// a.fun2();
