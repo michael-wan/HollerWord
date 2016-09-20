@@ -8,8 +8,7 @@ public class OODemo01 {
 		a.fun1();
 		a.fun2();
 		
-		B b = null;
-		b = (B)a;//(向下转型，父类为子类实例化)
+		B b = (B)a;//(向下转型，父类为子类实例化)
 		b.fun1();
 		b.fun2();
 		b.fun3();
